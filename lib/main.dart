@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:mm_task/views/login_view.dart';
 import 'utils/firebase_initializer.dart';
-import 'views/login_view.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
